@@ -1369,6 +1369,7 @@ function 配置信息(UUID, 域名地址) {
 
 let subParams = ['sub', 'base64', 'b64', 'clash', 'singbox', 'sb'];
 const cmad = '';
+/**
  * @param {string} userID
  * @param {string | null} hostName
  * @param {string} sub
